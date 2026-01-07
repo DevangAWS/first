@@ -1,0 +1,1 @@
+this is the first character stream that i have This handles unicode properly

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaDataStructuresAfterArrays/JavaDataStructuresAfterArrays.iml" filepath="$PROJECT_DIR$/JavaDataStructuresAfterArrays/JavaDataStructuresAfterArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallProjects/SmallProjects.iml" filepath="$PROJECT_DIR$/SmallProjects/SmallProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-java-journey.iml" filepath="$PROJECT_DIR$/my-java-journey.iml" />
+    </modules>
+  </component>
+</project>

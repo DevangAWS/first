@@ -1,0 +1,16 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Testing_2/test",
+        "Testing_2/src",
+        "SmallProjects/src/DigitalClock",
+        "Practice/src/Advance_Java/Annotations"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "alol",
+        "neila",
+        "olleh",
+        "Telusko"
+    ]
+}
