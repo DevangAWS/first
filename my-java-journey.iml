@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$" dumb="true">
       <sourceFolder url="file://$MODULE_DIR$/ObjectOrientedProgramming/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IBMPractice" isTestSource="false" />
     </content>
   </component>
 </module>
